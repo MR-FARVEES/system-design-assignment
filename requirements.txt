@@ -1,0 +1,77 @@
+####################################################
+#                                                  #
+#   Food Delivering System                         #
+#                                                  #
+####################################################
+
+# STACK HOLDERS
+1. Users
+2. Sellers
+3. Delivery Man
+4. System
+
+# Users Requirements
+01. Register User
+02. Login User
+03. Search for shops and restaurants
+04. Select food with quantity and add to card
+05. Select payment method (cash on delivery / card) for place order
+06. Add card information for if card choosed for payment
+07. Place order
+08. Check availability of food and delivery man
+09. Contact with delivery man (P2P - Optional)
+10. Track delivery man
+11. Receive order and rating
+
+# Sellers Requirements
+01. Register User
+02. Login User
+03. Food Listing
+04. Receive orders with beeb sound
+05. Manage orders
+06. Hand overy orders to Delivery Man
+
+# Delivery Man Requirements
+01. Register User
+02. Login User
+03. See nearest orders list
+04. Confirm order
+05. Contact with customer (P2P - Optional)
+06. Track seller location
+07. Get the order from seller
+08. Track delivery location
+09. Hand over the order to customer
+
+# System Requirements (Each components refers microservices)
+01. Manage Users
+    a. Disable
+    b. Enable
+
+02. Manage Sellers
+    a. Disable
+    b. Enable
+
+03. Manage Delivery Man
+    a. Disable
+    b. Enable
+
+04. Manage Payment
+    a. Service charge for each orders (Monthly)
+    b. Manage card payments
+        1. Pay sellers
+        2. Pay delivery man 
+
+05. Manage Orders
+    a. Refund
+    b. Fine
+
+06. Manage Delivery Man Location (share public)
+07. Manage Customer Man Location (share public)
+08. Manage Seller Man Location (share public)
+
+# Deliverables
+a. Use Case Diagram
+b. Activity Diagram
+c. UML Sequence Diagram
+d. Class Diagram
+e. State Chart Diagram
