@@ -66,8 +66,8 @@
     b. Fine
 
 06. Manage Delivery Man Location (share public)
-07. Manage Customer Man Location (share public)
-08. Manage Seller Man Location (share public)
+07. Manage Customer Location (share public)
+08. Manage Seller Location (share public)
 
 # Deliverables
 a. Use Case Diagram
