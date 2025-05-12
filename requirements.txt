@@ -26,10 +26,11 @@
 # Sellers Requirements
 01. Register User
 02. Login User
-03. Food Listing
-04. Receive orders with beeb sound
-05. Manage orders
-06. Hand overy orders to Delivery Man
+03. Add Account Details
+04. Food Listing
+05. Receive orders with beeb sound
+06. Manage orders
+07. Hand overy orders to Delivery Man
 
 # Delivery Man Requirements
 01. Register User
